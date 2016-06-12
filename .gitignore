@@ -1,1 +1,3 @@
-/target/
+/dubbo_demo_api/target/
+/dubbo_demo_server/target/
+/dubbo_demo_client/target/
